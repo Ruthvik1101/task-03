@@ -1,1 +1,1 @@
-# task-03
+I performed exploratory data analysis by identifying numerical columns and visualizing their distributions using histograms. This helped me understand the data spread, frequency, and presence of skewness or outliers. The histograms were generated using Matplotlib for clear data interpretation.
